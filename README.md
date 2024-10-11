@@ -5,7 +5,7 @@ The objective of this project was to get a better understanding of using python'
 https://github.com/Iaamdev/Pong-game.git
 cd Pong-game
 ```
-No Dependencies other than built turtle!
+No Dependencies other than built-in turtle!
 ## Usage
 Simple as running the application in your choice of IDE or Text Editor (if text editor):
 ```
