@@ -6,8 +6,9 @@ https://github.com/Iaamdev/Pong-game.git
 cd Pong-game
 ```
 No Dependencies other than built turtle!
-### Usage
+## Usage
 Simple as running the application in your choice of IDE or Text Editor (if text editor):
 ```
 python3 main.py
 ```
+### Thank you for taking a quick look at this small project!
