@@ -1,0 +1,7 @@
+# TODO: [X] create both paddles for pong game
+# TODO: [X/O] let the left paddle be controlled by player while left moves randomly (left random movement function still needs to be done)
+# TODO: [X] create the ball used for the paddles to play with and make it move
+# TODO: [X] create collision system with ball, paddles, and wall 
+# TODO: [X] create a scoring system to keep track of score
+# TODO: [X] make the screen in which the game will be displayed on
+# TODO: [X] detect when the ball moves past the paddle for scoring
